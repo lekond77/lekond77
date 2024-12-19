@@ -33,10 +33,3 @@ I'm a passionate developer specializing in Java and Angular. I love building rob
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekond77&repo=blogapp_webapp)](https://github.com/lekond77/blogapp_webapp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekond77&repo=blogapp_api)](https://github.com/lekond77/blogapp_api)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekond77&repo=eventbooker)](https://github.com/lekond77/eventbooker)
-
-### Connect with Me
-
-
-### Fun Fact
-Did you know? The first computer virus was created in 1983 and was called "Elk Cloner." It was a boot sector virus that infected Apple II computers.
-
